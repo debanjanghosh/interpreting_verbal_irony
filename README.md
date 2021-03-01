@@ -10,21 +10,6 @@ The input file has the following members.
 
 If you use the dataset please cite the following paper,
 
-@inproceedings{ghosh-etal-2020-interpreting,
-    title = "Interpreting Verbal Irony: Linguistic Strategies and the Connection to the{T}ype of Semantic Incongruity",
-    author = "Ghosh, Debanjan  and
-      Musi, Elena  and
-      Upasani, Kartikeya and
-      Muresan, Smaranda",
-    booktitle = "Proceedings of the Society for Computation in Linguistics 2020",
-    month = jan,
-    year = "2020",
-    address = "New York, New York",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.scil-1.10",
-    pages = "82--93",
-}
+***Main Reference:***
 
-***Main References:***
-
-[Interpreting Verbal Irony: Linguistic Strategies and the Connection to the{T}ype of Semantic Incongruity](https://www.aclweb.org/anthology/2020.scil-1.10) Debanjan Ghosh, Elena Musi, Kartikeya Upasani, Smaranda Muresan. Proceedings of the Society for Computation in Linguistics 2020. pages 82--93.
+[Interpreting Verbal Irony: Linguistic Strategies and the Connection to the{T}ype of Semantic Incongruity](https://www.aclweb.org/anthology/2020.scil-1.10) Debanjan Ghosh, Elena Musi, Kartikeya Upasani, Smaranda Muresan. Proceedings of the Society for Computation in Linguistics. 2020. pages 82--93.
