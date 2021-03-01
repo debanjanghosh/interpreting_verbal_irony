@@ -25,3 +25,6 @@ If you use the dataset please cite the following paper,
     pages = "82--93",
 }
 
+***Main References:***
+
+[Interpreting Verbal Irony: Linguistic Strategies and the Connection to the{T}ype of Semantic Incongruity](https://www.aclweb.org/anthology/2020.scil-1.10) Debanjan Ghosh, Elena Musi, Kartikeya Upasani, Smaranda Muresan. Proceedings of the Society for Computation in Linguistics 2020. pages 82--93.
